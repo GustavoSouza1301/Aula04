@@ -1,6 +1,6 @@
-negat = 0
-for valor in range(1,5):
+neg = 0
+for valor in range(1,11):
     num = int(input("Digite um número: "))
     if num <0:
-        negat += 1
-print(negat)
+        neg += 1
+print("A quantidade de números negativos são: ",neg)
