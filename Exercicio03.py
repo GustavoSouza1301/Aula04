@@ -1,2 +1,2 @@
-for x in range(100,111):
+for x in range(101,111):
     print(x, end=" ")
